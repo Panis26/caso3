@@ -1,4 +1,4 @@
-package seguridad20222_servidor;
+package client;
 import java.util.*;
 import java.math.BigInteger;
 import java.security.NoSuchAlgorithmException;

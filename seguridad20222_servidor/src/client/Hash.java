@@ -1,4 +1,4 @@
-package seguridad20222_servidor;
+package client;
 // Java program to calculate SHA-512 hash value
 
 import java.math.BigInteger;
