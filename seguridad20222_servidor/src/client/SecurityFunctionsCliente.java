@@ -105,6 +105,4 @@ public class SecurityFunctionsCliente {
 		}
 		return pubkey;
 	}
-	
-
 }
